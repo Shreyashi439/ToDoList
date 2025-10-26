@@ -9,7 +9,7 @@ Users can add, complete, and delete tasks, and view the total task count in real
 
 ## File Structure
 
-ToDoList_Assignment/
+ToDoList/
 │
 ├── index.html → Main page structure
 ├── style.css → Styling and responsiveness
@@ -45,4 +45,5 @@ ToDoList_Assignment/
 ---
 
 The site is live at https://shreyashi439.github.io/ToDoList/
+
 

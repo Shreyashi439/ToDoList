@@ -44,8 +44,4 @@ ToDoList_Assignment/
 
 ---
 
-## Author
 
-**Name:** Shreyashi Manerkar  
-**Role:** Web Development Intern (Assignment Submission)  
-**Date:** October 2025
